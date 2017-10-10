@@ -1,0 +1,13 @@
+Nominal bandwidth (kHz), 1094, 552,	281, 156
+Channel spacing (kHz), 1200, 800, 400, 200
+DFT size, 128, 64, 32, 16
+Active tones, 104, 52, 26, 14
+# Pilot tones, 8, 4, 2, 2
+# Data tones, 96, 48, 24, 12
+MCS0 (kb/s) (BPSK rate 1/2 with 4x frequency repetition), 100, 50,,
+MCS1 (kb/s)(BPSK rate 1/2 with 2x frequency repetition), 200, 100, 50,
+MCS2 (kb/s)(QPSK rate 1/2 and 2x frequency repetition), 400, 200, 100, 50
+MCS3 (kb/s)(QPSK rate 1/2), 800, 400, 200, 100
+MCS4 (kb/s) (QPSK rate 3/4),, 600, 300, 150
+MCS5 (kb/s) (16-QAM rate 1/2),, 800, 400, 200
+MCS6 (kb/s) (16-QAM rate 3/4),,, 600, 300
